@@ -5,7 +5,3 @@ console.log(
     return acc;
   }, [])
 );
-
-module.exports = function towelSort (matrix) {
-  return [];
-}
